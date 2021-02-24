@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Moja odlična react aplikacija 3...
+          Moja odlična react aplikacija 4...
         </p>
 
       </header>
